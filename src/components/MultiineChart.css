@@ -1,0 +1,22 @@
+/* MultiineChart.css */
+
+.multilinechart-container {
+  margin: 15px;
+  height: 500px;
+  width: 500px;
+  background-color: #ccc;
+  border: 1px solid black;
+}
+.multilinechart-root {
+  background-color: #fff;
+}
+
+.multilinechart-tooltip {
+  position: absolute;
+  width: 200px;
+  height: auto;
+  background-color: #fff;
+  padding: 0.5rem;
+  border: 2px solid #ccc;
+  display: none;
+}
